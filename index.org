@@ -1,5 +1,11 @@
 * day diary
 ** [[file:./20160601.org][2016/06/01]]
-工作日常
-* 技术话题
+14:06:43
+再也不怕迟到了
+
+[[../pics/20160601.png]]
+* technical topics
 **  git vs perforce
+[[../pics/Capture.PNG]]
+[[../pics/Capture1.PNG]]
+[[../pics/Capture2.PNG]]
