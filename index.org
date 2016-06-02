@@ -1,0 +1,5 @@
+* day diary
+** [[file:./20160601.org][2016/06/01]]
+工作日常
+* 技术话题
+**  git vs perforce
