@@ -1,6 +1,7 @@
 ;; config for publish site from org files
 (require 'org-publish)
-
+;(setq org-export-html-postamble nil)  ; 底栏都没了
+(setq org-export-html-validation-link nil)
 (setq org-publish-project-alist
       '(
         ;; These are the main web files
@@ -15,7 +16,7 @@
 			:index-title "index"
 			:index-home "index.html"
          :section-numbers t
-			:author "henry zhang"
+			:author "andyrat@qq.com"
          :email "andyrat@qq.com"
          :table-of-contents t
          ;:style "<link rel='stylesheet' type='text/css' href='css/org-manual.css' />"

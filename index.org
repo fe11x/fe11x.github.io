@@ -1,11 +1,17 @@
+#+TITLE: Index
+#+AUTHOR: andyrat@qq.com
 * day diary
 ** [[file:./20160601.org][2016/06/01]]
 14:06:43
 再也不怕迟到了
 
-[[../pics/20160601.png]]
+[[./pics/20160601.png]]
+** 2016/06/03 
+同事们都好热情，⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄
+
+[[./pics/Capture3.PNG]]
 * technical topics
 **  git vs perforce
-[[../pics/Capture.PNG]]
-[[../pics/Capture1.PNG]]
-[[../pics/Capture2.PNG]]
+[[./pics/Capture.PNG]]
+[[./pics/Capture1.PNG]]
+[[./pics/Capture2.PNG]]
